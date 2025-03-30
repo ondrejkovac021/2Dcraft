@@ -35,6 +35,7 @@ Zvuky nebyly k objektům přidány kvůli **omezením v Godotu 3.6**, která zp�
 Hra **neobsahuje hudbu**.
 
 ## Implementace
+[Godot 3.6](https://godotengine.org/download/archive/3.6-stable/)
 
 Vývoj probíhal v **Godotu 3.6**, kde byly jednotlivé prvky skládány dohromady:
 - Herní logika (stavění, ničení bloků, inventář)
