@@ -1,6 +1,7 @@
 # 2Dcraft
 
 ## Základní koncepce
+[Odkaz na složku](https://github.com/uzivatel/repozitar/tree/branch/nazev_slozky)
 
 2Dcraft je jednoduchá sandboxová hra vytvořená v **Godotu 3.6**. Hra využívá **gridové pole různých bloků**, které lze ničit a stavět. Grafický styl je **pixel art**, veškeré vizuální prvky byly vytvořeny v **Adobe Photoshopu**. 
 
@@ -16,6 +17,8 @@ Hráč může:
 - Prozkoumávat náhodně generované jeskyně.
 
 ## Grafika
+[Odkaz na složku](https://github.com/uzivatel/repozitar/tree/branch/nazev_slozky)
+
 
 - **Styl:** Pixel art
 - **Software:** Adobe Photoshop
@@ -39,7 +42,7 @@ Vývoj probíhal v **Godotu 3.6**, kde byly jednotlivé prvky skládány dohroma
 
 ## Propagace
 
-Zatím nejsou k dispozici žádné propagační materiály.
+Propagační materiál: bannery s pixel art logem (pro instagram, facebook, tiktok)
 
 ## Finální hra
 
