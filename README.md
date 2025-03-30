@@ -17,7 +17,7 @@ Hráč může:
 - Prozkoumávat náhodně generované jeskyně.
 
 ## Grafika
-[Odkaz na složku](https://github.com/uzivatel/repozitar/tree/branch/nazev_slozky)
+[Odkaz na složku](https://github.com/ondrejkovac021/2Dcraft/tree/main/2Dcraft/2Dcraft)
 
 
 - **Styl:** Pixel art
