@@ -1,5 +1,5 @@
 # Návod na hru
-´´´´
+
 ## Ovládání
 - **Pohyb**: Použijte klávesy **W, A, S, D** pro pohyb postavy.
 - **Stavění bloků**: Levým tlačítkem myši umístíte blok na aktuální pozici kurzoru.
