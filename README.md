@@ -47,4 +47,4 @@ Propagační materiál: bannery s pixel art logem (pro instagram, facebook, tikt
 
 ## Finální hra
 
-Hra je v hratelné podobě, umožňuje stavění, ničení a prozkoumávání generovaných jeskyní.
+Hra je v hratelné podobě ale bohužel nemá příběh, itemy se nedropují a negenerují, postavička a svět nejsou animované, ale umožňuje stavění, ničení.
